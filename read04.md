@@ -1,5 +1,5 @@
 # Rreading note-04
-##here is some cocept that we learn from **HTML and CSS: Design and Build Web Sites** book
+## here is some cocept that we learn from **HTML and CSS: Design and Build Web Sites** book
 + **PROCESS & Design**: <br>
 It's important to understand who your target audience
 is, why they would come to your site, what information
