@@ -1,6 +1,6 @@
-# Reading note - day 03 
+# Reading note - day 04 
 + After we tack introduction to **JS** , today we learn more about it 
-+ ++The functions**: it is a paice of code we write to use it a multiuple time, and it writen like this : <br> 
++ **The functions**: it is a paice of code we write to use it a multiuple time, and it writen like this : <br> 
 function name(parameter) { here is what the function code is }.
 + **prompt** : it is a dynamic world use to write inside the box pop up .<br> 
 it more like " alert " but it allow you to write inside.<br>
